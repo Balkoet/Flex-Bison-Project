@@ -1,0 +1,1 @@
+This is just a simple compiler project for a computer engineering school. It uses Flex & Bison and is a essentially pseudo-Java language. Some test files (in C) are included, in order for it to be tested, alongside the proper MakeFile.
